@@ -1,6 +1,6 @@
 node_modules
 sources
 out
-src
 .DS_Store
 key.json
+src-old
